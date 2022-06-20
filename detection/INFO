@@ -1,0 +1,2 @@
+2021-05-19 17:00:23,826 - mmdet - INFO - Start running, host: root@3d38844af3e1, work_dir: /opt/ml/realcode/work_dirs/swinb_htc_plus
+2021-05-19 17:00:23,826 - mmdet - INFO - workflow: [('train', 1)], max: 52 epochs
